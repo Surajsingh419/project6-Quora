@@ -142,7 +142,7 @@ question Model
   updatedAt: {timestamp},
 
 }
-
+//-------
 TAG : A tag refers to the category of question(Eg sci-fi, technology, coding, adventure etc)
 DESCRIPTION : A decription denotes the question a users want to ask.
 
